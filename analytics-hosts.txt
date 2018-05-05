@@ -1,0 +1,30 @@
+# black-eye-adaway-list
+#
+# The following are tracking & analytics related hosts
+# This file will NOT protect you against malicious domains
+#
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# Tracking and Analytics SERVERS START HERE
+#
+
+127.0.0.1 alog.umeng.co
+127.0.0.1 alog.umeng.com
+127.0.0.1 alog.umengcloud.com
+127.0.0.1 amp.permutive.com
+127.0.0.1 analytics.businessinsider.com
+127.0.0.1 analytics.carambo.la
+127.0.0.1 analytics.hindustantimes.com
+127.0.0.1 analytics.htmedia.in
+127.0.0.1 analytics.neuralprisma.com
+127.0.0.1 analytics.opongo.com
+127.0.0.1 analytics.publitas.com
+127.0.0.1 analytics.rayjump.com
+127.0.0.1 analytics-events.inshorts.com
+127.0.0.1 app-analytics.snapchat.com
+127.0.0.1 appevents.impactradius.com
+127.0.0.1 prod-analytics.qlitics.com
+127.0.0.1 sc-analytics.appspot.com
+127.0.0.1 ssl.google-analytics.com
+127.0.0.1 vuukle-analytics.appspot.com
