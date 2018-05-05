@@ -1,0 +1,73 @@
+# black-eye-adaway-list
+#
+# The following are ad related hosts
+# This file will NOT protect you against malicious domains
+#
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# AD SERVERS START HERE
+#
+
+127.0.0.1 aax-us.amazon-adsystem.com
+127.0.0.1 abroad-ad.kingsoft-office-service.com
+127.0.0.1 ad.allconnected.in
+127.0.0.1 adbsc.krmobi.com
+127.0.0.1 addng.com
+127.0.0.1 ade.clmbtech.com
+127.0.0.1 ade.googlesyndication.com
+127.0.0.1 adeventtracker.spotify.com
+127.0.0.1 adgebra.co.in
+127.0.0.1 adition.com
+127.0.0.1 admantx.com
+127.0.0.1 adoxen.com
+127.0.0.1 adpushup.com
+127.0.0.1 ads.addng.com
+127.0.0.1 ads.blbrd.co
+127.0.0.1 ads.krmobi.com
+127.0.0.1 ads.mopub.com
+127.0.0.1 ads.ndtv1.com
+127.0.0.1 ads.pdbarea.com
+127.0.0.1 ads5.truecaller.com
+127.0.0.1 ads-api.ft.com
+127.0.0.1 adsby.bidtheatre.com
+127.0.0.1 adservice.google.co.in
+127.0.0.1 adservice.google.com
+127.0.0.1 adservice.google.de
+127.0.0.1 adservice.google.se
+127.0.0.1 adspruce.com
+127.0.0.1 adtag.sphdigital.com
+127.0.0.1 adtech.de
+127.0.0.1 advertising.amazon.in
+127.0.0.1 aka-cdn.adtech.de
+127.0.0.1 amazon-adsystem.com
+127.0.0.1 ani.adspruce.com
+127.0.0.1 api.cooladata.com
+127.0.0.1 app.adjust.com
+127.0.0.1 ase.adserver.snapads.com
+127.0.0.1 cdn.adsnative.com
+127.0.0.1 cdn.automatad.com
+127.0.0.1 cdn.cooladata.com
+127.0.0.1 cdn.smartnews-ads.com
+127.0.0.1 cdn-assets.adspruce.com
+127.0.0.1 cdn-d.amazon-adsystem.com
+127.0.0.1 cdn-video.adspruce.com
+127.0.0.1 conf.smartnews-ads.com
+127.0.0.1 delivery.swid.switchadhub.com
+127.0.0.1 dsh.adscale.de
+127.0.0.1 euw.adserver.snapads.com
+127.0.0.1 gads.pubmatic.com
+127.0.0.1 go.automatad.com
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 images.babyboomboomads.com
+127.0.0.1 info.adspruce.com
+127.0.0.1 m.servedby-buysellads.com
+127.0.0.1 match.adsby.bidtheatre.com
+127.0.0.1 mobileads.indiatimes.com
+127.0.0.1 mt.waipu-ad.tv
+127.0.0.1 prebid.adnxs.com
+127.0.0.1 queue.adspruce.com
+127.0.0.1 sdk.adspruce.com
+127.0.0.1 smartnews-ads.com
+127.0.0.1 track.adspruce.com
+127.0.0.1 zedo.com
