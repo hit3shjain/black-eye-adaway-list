@@ -1121,4 +1121,7 @@
 127.0.0.1	usc.adserver.snapads.com
 127.0.0.1	app.igodigital.com
 127.0.0.1	exacttargetapis.com
+127.0.0.1	5d56a.v.fwmrm.net
+127.0.0.1	mssl.fwmrm.net
 127.0.0.1	web.vortex.data.microsoft.com
+127.0.0.1 mcdp-sadc1.outbrain.com
