@@ -71,3 +71,5 @@
 127.0.0.1 smartnews-ads.com
 127.0.0.1 track.adspruce.com
 127.0.0.1 zedo.com
+127.0.0.1 fwmrm.net
+127.0.0.1 v.fwmrm.net
