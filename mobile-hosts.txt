@@ -1114,3 +1114,11 @@
 127.0.0.1	ziffdavis.com
 127.0.0.1	zoglafi.info
 127.0.0.1	zzhengre.com
+127.0.0.1	ads.adorca.com
+127.0.0.1	acdn.newshuntads.com
+127.0.0.1	api.newshuntads.com
+127.0.0.1	newshuntads.com
+127.0.0.1	usc.adserver.snapads.com
+127.0.0.1	app.igodigital.com
+127.0.0.1	exacttargetapis.com
+127.0.0.1	web.vortex.data.microsoft.com
