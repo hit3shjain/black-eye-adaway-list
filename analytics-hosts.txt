@@ -28,3 +28,10 @@
 127.0.0.1 sc-analytics.appspot.com
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 vuukle-analytics.appspot.com
+127.0.0.1 beacon.rtp.dailyhunt.in
+127.0.0.1 b.scorecardresearch.com
+127.0.0.1 social.dailyhunt.in
+127.0.0.1 appnext.hs.llnwd.net
+127.0.0.1 api.newshuntads.com
+127.0.0.1 click.liftoff.io
+127.0.0.1 tracking.wealthdaily.io
