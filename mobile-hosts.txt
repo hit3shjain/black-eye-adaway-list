@@ -1125,3 +1125,5 @@
 127.0.0.1	mssl.fwmrm.net
 127.0.0.1	web.vortex.data.microsoft.com
 127.0.0.1 mcdp-sadc1.outbrain.com
+127.0.0.1	combine.urbanairship.com
+127.0.0.1 match.prod.bidr.io
