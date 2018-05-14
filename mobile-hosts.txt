@@ -1127,3 +1127,6 @@
 127.0.0.1 mcdp-sadc1.outbrain.com
 127.0.0.1	combine.urbanairship.com
 127.0.0.1 match.prod.bidr.io
+127.0.0.1 a.optmstr.com
+127.0.0.1 cdn.izooto.com
+127.0.0.1 stats.kumulos.com
