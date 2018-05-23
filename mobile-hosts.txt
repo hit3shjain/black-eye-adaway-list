@@ -1131,3 +1131,4 @@
 127.0.0.1 cdn.izooto.com
 127.0.0.1 stats.kumulos.com
 127.0.0.1 allaboutberlin.com
+127.0.0.1 ad3.adfarm1.adition.com
