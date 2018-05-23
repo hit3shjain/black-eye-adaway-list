@@ -1132,3 +1132,9 @@
 127.0.0.1 stats.kumulos.com
 127.0.0.1 allaboutberlin.com
 127.0.0.1 ad3.adfarm1.adition.com
+127.0.0.1 mcdp-sadc1.outbrain.com
+127.0.0.1 usc.adserver.snapads.com
+127.0.0.1 log.outbrain.com
+127.0.0.1 adsdk.adfarm1.adition.com
+127.0.0.1 girldatingusanow.com
+127.0.0.1 ad1.adfarm1.adition.com
