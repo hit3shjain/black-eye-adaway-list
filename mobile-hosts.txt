@@ -1138,3 +1138,5 @@
 127.0.0.1 adsdk.adfarm1.adition.com
 127.0.0.1 girldatingusanow.com
 127.0.0.1 ad1.adfarm1.adition.com
+127.0.0.1 af201768865.com
+127.0.0.1 amadagasca.com
