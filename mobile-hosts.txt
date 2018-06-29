@@ -1187,7 +1187,6 @@
 127.0.0.1 vortex.data.microsoft.com
 127.0.0.1 settings.data.microsoft.com
 127.0.0.1 graph.instagram.com
-127.0.0.1 instagram.fmuc3-1.fna.fbcdn.net
 127.0.0.1 connect.facebook.net
 127.0.0.1 gew1-accsspoint-b-5pkq.ap.spotify.com
 127.0.0.1 udm.scorecardresearch.com
