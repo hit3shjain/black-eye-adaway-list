@@ -1,14 +1,11 @@
-# black-eye-adaway-list
-#
-# The following are mobile ad related hosts
-# This file will NOT protect you against malicious domains
-#
-127.0.0.1 localhost #IPv4 localhost
-::1 localhost #IPv6 localhost
-#
-# AD SERVERS START HERE
-#
-
+# black-eye-adaway-list	
+#	
+# The following are mobile ad related hosts	
+# This file will NOT protect you against malicious domains	
+127.0.0.1 localhost #IPv4 localhost	
+::1 localhost #IPv6 localhost	
+# AD SERVERS START HERE	
+	
 127.0.0.1	023hysj.com
 127.0.0.1	1mp.mobi
 127.0.0.1	247realmedia.com
@@ -1124,73 +1121,71 @@
 127.0.0.1	5d56a.v.fwmrm.net
 127.0.0.1	mssl.fwmrm.net
 127.0.0.1	web.vortex.data.microsoft.com
-127.0.0.1 mcdp-sadc1.outbrain.com
+127.0.0.1 mcdp-sadc1.outbrain.com	
 127.0.0.1	combine.urbanairship.com
-127.0.0.1 match.prod.bidr.io
-127.0.0.1 a.optmstr.com
-127.0.0.1 cdn.izooto.com
-127.0.0.1 stats.kumulos.com
-127.0.0.1 allaboutberlin.com
-127.0.0.1 ad3.adfarm1.adition.com
-127.0.0.1 mcdp-sadc1.outbrain.com
-127.0.0.1 usc.adserver.snapads.com
-127.0.0.1 log.outbrain.com
-127.0.0.1 adsdk.adfarm1.adition.com
-127.0.0.1 girldatingusanow.com
-127.0.0.1 ad1.adfarm1.adition.com
-127.0.0.1 af201768865.com
-127.0.0.1 amadagasca.com
-127.0.0.1 i.w55c.net
-127.0.0.1 rubiconproject.com
-127.0.0.1 tubemogul.com
-127.0.0.1 sync.tidaltv.com
-127.0.0.1 track.eyeviewads.com
-127.0.0.1 sync.mathtag.com
-127.0.0.1 secure.adnxs.com
-127.0.0.1 eur-ukp.adsrvr.org
-127.0.0.1 pubads.g.doubleclick.net
-127.0.0.1 px.moatads.com
-127.0.0.1 r2--sn-4g5e6nzs.c.2mdn.net
-127.0.0.1 gcdn.2mdn.net
-127.0.0.1 adeventtracker.spotify.com
-127.0.0.1 accesspoint-b-65wm.ap.spotify.com
-127.0.0.1 upsell.scdn.com
-127.0.0.1 i.scdn.co
-127.0.0.1 apresolve.spotify.com
-127.0.0.1 spclient.wg.spotify.com
-127.0.0.1 usc.adserver.snapads.com
-127.0.0.1 euw.adserver.snapads.com
-127.0.0.1 gtq.sct.sc-prod.net
-127.0.0.1 liftoff.io
-127.0.0.1 social.dailyhunt.in
-127.0.0.1 manifest.localytics.com
-127.0.0.1 t.appsflyer.com
-127.0.0.1 an.facebook.com
-127.0.0.1 images.newsinshorts.com.edgesuite.net
-127.0.0.1 custom-card.inshorts.com
-127.0.0.1 ad.doubleclick.net
-127.0.0.1 onesignal.com
-127.0.0.1 cm.g.doubleclick.net
-127.0.0.1 remote-data.urbanairship.com
-127.0.0.1 device-api.urbanairship.com
-127.0.0.1 d30x8mtr3hjnzo.cloudfront.net
-127.0.0.1 apigw.fotmob.com
-127.0.0.1 data.flurry.com
-127.0.0.1 track.adform.net
-127.0.0.1 ads.mopub.com
-127.0.0.1 acdn.newshuntads.com
-127.0.0.1 api.appnxt.net
-127.0.0.1 whatsbroadcast.com
-127.0.0.1 in.appcenter.ms
-127.0.0.1 api.taboola.com
-127.0.0.1 persephone.blob.core.windows.net
-127.0.0.1 vortex.data.microsoft.com
-127.0.0.1 settings.data.microsoft.com
-127.0.0.1 graph.instagram.com
-127.0.0.1 connect.facebook.net
-127.0.0.1 gew1-accsspoint-b-5pkq.ap.spotify.com
-127.0.0.1 udm.scorecardresearch.com
-127.0.0.1 track.leanlab.co
+127.0.0.1 match.prod.bidr.io	
+127.0.0.1 a.optmstr.com	
+127.0.0.1 cdn.izooto.com	
+127.0.0.1 stats.kumulos.com	
+127.0.0.1 allaboutberlin.com	
+127.0.0.1 ad3.adfarm1.adition.com	
+127.0.0.1 usc.adserver.snapads.com	
+127.0.0.1 log.outbrain.com	
+127.0.0.1 adsdk.adfarm1.adition.com	
+127.0.0.1 girldatingusanow.com	
+127.0.0.1 ad1.adfarm1.adition.com	
+127.0.0.1 af201768865.com	
+127.0.0.1 amadagasca.com	
+127.0.0.1 i.w55c.net	
+127.0.0.1 rubiconproject.com	
+127.0.0.1 tubemogul.com	
+127.0.0.1 sync.tidaltv.com	
+127.0.0.1 track.eyeviewads.com	
+127.0.0.1 sync.mathtag.com	
+127.0.0.1 secure.adnxs.com	
+127.0.0.1 eur-ukp.adsrvr.org	
+127.0.0.1 pubads.g.doubleclick.net	
+127.0.0.1 px.moatads.com	
+127.0.0.1 r2--sn-4g5e6nzs.c.2mdn.net	
+127.0.0.1 gcdn.2mdn.net	
+127.0.0.1 adeventtracker.spotify.com	
+127.0.0.1 accesspoint-b-65wm.ap.spotify.com	
+127.0.0.1 upsell.scdn.com	
+127.0.0.1 i.scdn.co	
+127.0.0.1 apresolve.spotify.com	
+127.0.0.1 spclient.wg.spotify.com	
+127.0.0.1 euw.adserver.snapads.com	
+127.0.0.1 gtq.sct.sc-prod.net	
+127.0.0.1 liftoff.io	
+127.0.0.1 social.dailyhunt.in	
+127.0.0.1 manifest.localytics.com	
+127.0.0.1 t.appsflyer.com	
+127.0.0.1 an.facebook.com	
+127.0.0.1 images.newsinshorts.com.edgesuite.net	
+127.0.0.1 custom-card.inshorts.com	
+127.0.0.1 ad.doubleclick.net	
+127.0.0.1 onesignal.com	
+127.0.0.1 cm.g.doubleclick.net	
+127.0.0.1 remote-data.urbanairship.com	
+127.0.0.1 device-api.urbanairship.com	
+127.0.0.1 d30x8mtr3hjnzo.cloudfront.net	
+127.0.0.1 apigw.fotmob.com	
+127.0.0.1 data.flurry.com	
+127.0.0.1 track.adform.net	
+127.0.0.1 ads.mopub.com	
+127.0.0.1 acdn.newshuntads.com	
+127.0.0.1 api.appnxt.net	
+127.0.0.1 whatsbroadcast.com	
+127.0.0.1 in.appcenter.ms	
+127.0.0.1 api.taboola.com	
+127.0.0.1 persephone.blob.core.windows.net	
+127.0.0.1 vortex.data.microsoft.com	
+127.0.0.1 settings.data.microsoft.com	
+127.0.0.1 graph.instagram.com	
+127.0.0.1 connect.facebook.net	
+127.0.0.1 gew1-accsspoint-b-5pkq.ap.spotify.com	
+127.0.0.1 udm.scorecardresearch.com	
+127.0.0.1 track.leanlab.co	
 127.0.0.1	1emn.com
 127.0.0.1	3aeeenmpdb.com
 127.0.0.1	3vwp.org
@@ -1307,7 +1302,6 @@
 127.0.0.1	plus.google.com
 127.0.0.1	polldaddy.com
 127.0.0.1	polls.oneindia.com
-127.0.0.1	popads.net
 127.0.0.1	prod-analytics.qlitics.com
 127.0.0.1	pulseinsights.com
 127.0.0.1	pushcrew.com
@@ -1318,14 +1312,12 @@
 127.0.0.1	rdir.de
 127.0.0.1	rgmgocplioed.com
 127.0.0.1	sara.tvfplay.com
-127.0.0.1	scorecardresearch.com
 127.0.0.1	sel-sel-fie.com
 127.0.0.1	sexfriendfinder.club
 127.0.0.1	sharethis.com
 127.0.0.1	shop.gadgetsnow.com
 127.0.0.1	shoutmix.com
 127.0.0.1	skknyxzaixws.com
-127.0.0.1	smartadserver.com
 127.0.0.1	smashseek.com
 127.0.0.1	social.dw.com
 127.0.0.1	social.ndtv.com
@@ -1363,4 +1355,45 @@
 127.0.0.1	zjk24.com
 127.0.0.1	zopim.com
 127.0.0.1	zukxd6fkxqn.com
-
+127.0.0.1	4b6994dfa47cee4.com
+127.0.0.1	adpxl.co
+127.0.0.1	businessvoip.cx
+127.0.0.1	ceehimur.uk
+127.0.0.1	commenting.financialexpress.com
+127.0.0.1	commenting.indianexpress.com
+127.0.0.1	commenting.jansatta.com
+127.0.0.1	connect.facebook.net
+127.0.0.1	co-peer-right-agency.com
+127.0.0.1	d3clqjla00sltp.cloudfront.net
+127.0.0.1	ekoatchooze.com
+127.0.0.1	ethikuma.link
+127.0.0.1	fbfree89.info
+127.0.0.1	gaitheed.com
+127.0.0.1	gerzenad.com
+127.0.0.1	glotchat.click
+127.0.0.1	glothouw.link
+127.0.0.1	graucoay.net
+127.0.0.1	himanyo.com
+127.0.0.1	kaishist.top
+127.0.0.1	koapsooh.click
+127.0.0.1	newsupdatedepot.info
+127.0.0.1	nieveni.com
+127.0.0.1	onclkds.com
+127.0.0.1	ouloutso.net
+127.0.0.1	pagesense.io
+127.0.0.1	pavlov-prod.healthline.com
+127.0.0.1	ptikeegno.com
+127.0.0.1	pushanert.com
+127.0.0.1	pussl6.com
+127.0.0.1	rgvqcsxqge.com
+127.0.0.1	ryllae.com
+127.0.0.1	sdsdsf
+127.0.0.1	soujoobafoo.com
+127.0.0.1	taboola.com
+127.0.0.1	ugrastes.uk
+127.0.0.1	vidtod.me
+127.0.0.1	wildaffiliates.com
+127.0.0.1	wirenth.com
+127.0.0.1	wunderino.com
+127.0.0.1	wynather.com
+127.0.0.1 zoho.com
